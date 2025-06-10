@@ -134,7 +134,7 @@ Weight: 350 grams
 Material: aluminum  
 Color: black & silver
   ]]></g:description>
-  <g:link>https://velofant.se/sv/products/ken-mid-rise-bar-72cm</g:link>
+  <g:link>https://velofant.se/sv/products/ken-mid-rise-bar-styre-72cm</g:link>
   <g:image_link>https://velofant.se/cdn/shop/files/ken-mid-rise-bar-72cm.jpg</g:image_link> <!-- Ange korrekt bild-URL -->
   <g:brand>Velofant</g:brand>
   <g:price>599.00 SEK</g:price>
@@ -252,7 +252,7 @@ Hubs: TANGE THB007
 - Alloy CNC, Anodized  
 - Front OLD:100mm / Rear OLD:120mm
   ]]></g:description>
-  <g:link>https://velofant.se/sv/products/velofant-wheelset</g:link>
+  <g:link>https://velofant.se/sv/products/velofant-wheelset-1</g:link>
   <g:image_link>https://velofant.se/cdn/shop/files/velofant-wheelset.jpg</g:image_link> <!-- byt till korrekt bild-URL -->
   <g:brand>Velofant</g:brand>
   <g:price>3499.00 SEK</g:price>
