@@ -49,10 +49,6 @@
 </item>
 
  
-
-<title>Velofant Produktfeed</title>
-<link>https://velofant.se</link>
-<description>XML-produktfeed för Prisjakt</description>
 <item>
 <g:id>ABUS-VAREDO-47-230MM</g:id>
 <g:title>ABUS - Varedo 47 - 230mm</g:title>
