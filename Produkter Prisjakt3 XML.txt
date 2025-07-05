@@ -30,7 +30,7 @@
 <g:id>LT-ABUS-Set</g:id>
 <g:title>ABUS - GEMINI LIGHTS</g:title>
 <g:description>Ett snyggt, kraftfullt och uppladdningsbart lampset från ABUS. Framljus: 240 lumen. Bakljus: 100 lumen. Den avlånga formen ger bättre ljusfördelning. Den kan roteras vertikalt eller horisontellt. Inkluderar USB-kabel. Laddningstid: 3 timmar. Full batteritid: 5 timmar. Har både blinkande och konstant ljusläge. Enkel installation med gummiband och klickfästen, inga verktyg krävs.</g:description>
-<g:link>https://velofant.se/sv/products/abus-gemini-lights</g:link>
+<g:link>https://velofant.se/products/abus-gemini-lights</g:link>
 <g:price>500.00 SEK</g:price>
 <g:sale_price>349.00 SEK</g:sale_price>
 <g:availability>in stock</g:availability>
@@ -56,7 +56,7 @@
 <g:id>ABUS-VAREDO-47-230MM</g:id>
 <g:title>ABUS - Varedo 47 - 230mm</g:title>
 <g:description>Sveriges mest sålda bygellås! Letar du efter ett pålitligt lås som ger maximalt skydd utan att kosta en förmögenhet? Då är ABUS Varedo ditt självklara val. Med en säkerhetsnivå på 9 av 15 på ABUS egen skala kombinerar det imponerande motståndskraft mot stöldförsök med ett mycket rimligt pris – vilket också gjort det till det mest sålda bygellåset genom tiderna. Tillverkat i 12 mm specialhärdat stål och utrustat med dubbel låsning i låskistan, står det emot såväl bultsaxar som vridningar och dyrkverktyg. Ett robust val som dessutom är godkänt av både försäkringsbolagen och Stöldskyddsföreningen (SSF). När du köper ABUS Varedo följer en praktisk universalhållare (USH) med på köpet. Det smarta fästet gör det enkelt att ta med dig låset på cykeln – utan att det är i vägen. 12 mm parabolisk bygel Dubbel låsning av bygeln i låskistan ABUS Power Cell-teknik (patenterad) ger extra skydd mot slag och vridning ABUS Plus-cylinder för effektivt skydd mot manipulation som t.ex. dyrkning Två nycklar medföljer Manuellt lock för nyckelhålet som skyddar mot smuts och korrosion ABUS Code Card för kopiering av nycklar och beställning av reservnycklar Bygeln, höljet och stödelementen är tillverkade av specialhärdat stål</g:description>
-<g:link>https://velofant.se/sv/products/abus-varedo-47</g:link>
+<g:link>https://velofant.se/products/abus-varedo-47</g:link>
 <g:price>749.00 SEK</g:price>
 <g:sale_price>569.00 SEK</g:sale_price>
 <g:availability>in stock</g:availability>
@@ -78,7 +78,7 @@
 <g:id>LK-Ugrip-Pur</g:id>
 <g:title>ABUS - UGrip BORDO 5700K/80</g:title>
 <g:description>Abus uGrip Bordo 5700/80 är ett hopfällbart cykellås som erbjuder effektivt skydd. Bordo-serien är den perfekta kombinationen av styrka, flexibilitet, vikt och storlek. Detta lås har 5 mm tjocka stänger, anslutna med speciella nitar och en automatisk cylinder. När det är utdraget når låset en längd på 80 cm. Rekommenderas för medelstor stöldrisk Abus Säkerhetsnivå: 7/15 Längd: 80 cm</g:description>
-<g:link>https://velofant.se/sv/products/abus-ugrip-bordo-5700k-80</g:link>
+<g:link>https://velofant.se/products/abus-ugrip-bordo-5700k-80</g:link>
 <g:price>819.00 SEK</g:price>
 <g:sale_price>599.00 SEK</g:sale_price>
 <g:availability>in stock</g:availability>
@@ -98,9 +98,9 @@
 
 <item>
 <g:id>RK-CRANE-BLK</g:id>
-<g:title>CRANE - eNE</g:title>
-<g:description>Den klassiska Crane E-NE ringklockan är tillverkad i Osaka, Japan. Den har en elegant design med en tydlig och resonant ton. 37 mm diameter Passar styre med en bredd på 22,2 - 31,8 mm Vikt: 38g</g:description>
-<g:link>https://velofant.se/sv/products/bell-1</g:link>
+<g:title>CRANE - E-ne</g:title>
+<g:description>Den klassiska Crane E-ne ringklockan är tillverkad i Osaka, Japan. Den har en elegant design med en tydlig och resonant ton. 37 mm diameter Passar styre med en bredd på 22,2 - 31,8 mm Vikt: 38g</g:description>
+<g:link>https://velofant.se/products/crane-e-ne/g:link>
 <g:price>349.00 SEK</g:price>
 <g:sale_price>299.00 SEK</g:sale_price>
 <g:availability>in stock</g:availability>
@@ -114,7 +114,7 @@
 <g:google_product_category>5049</g:google_product_category>
 <g:brand>Crane</g:brand>
 <g:product_type>Cykeltillbehör > Ringklockor</g:product_type>
-<g:mpn>ENE-RK-BLK</g:mpn>
+<g:mpn>E-ne-RK-BLK</g:mpn>
 </item>
 
 
@@ -134,7 +134,7 @@ Weight: 350 grams
 Material: aluminum  
 Color: black & silver
   ]]></g:description>
-  <g:link>https://velofant.se/sv/products/ken-mid-rise-bar-styre-72cm</g:link>
+  <g:link>https://velofant.se/products/ken-mid-rise-bar</g:link>
   <g:image_link>https://velofant.se/cdn/shop/files/ken-mid-rise-bar-72cm.jpg</g:image_link> <!-- Ange korrekt bild-URL -->
   <g:brand>Velofant</g:brand>
   <g:price>599.00 SEK</g:price>
@@ -169,7 +169,7 @@ Tillverkad för hand på Java
 Mått: 23 x 21,5 x 11 cm  
 Vikt: 700 gram
   ]]></g:description>
-  <g:link>https://velofant.se/sv/products/pizza-front-rack</g:link>
+  <g:link>https://velofant.se/products/pizza-front-rack</g:link>
   <g:image_link>https://velofant.se/cdn/shop/files/pizza-front-rack.jpg</g:image_link> <!-- byt till korrekt URL -->
   <g:brand>Velofant</g:brand>
   <g:price>1099.00 SEK</g:price>
@@ -205,7 +205,7 @@ Storlek: One size
 Certifiering: OEKO-TEX® STANDARD 100, ISO 9001:2015  
 Made in Taiwan
   ]]></g:description>
-  <g:link>https://velofant.se/sv/products/velofant-pedalstraps</g:link>
+  <g:link>https://velofant.se/products/pedalstraps</g:link>
   <g:image_link>https://velofant.se/cdn/shop/files/velofant-pedalstraps.jpg</g:image_link> <!-- byt till korrekt bild-URL -->
   <g:brand>Velofant</g:brand>
   <g:price>399.00 SEK</g:price>
@@ -252,7 +252,7 @@ Hubs: TANGE THB007
 - Alloy CNC, Anodized  
 - Front OLD:100mm / Rear OLD:120mm
   ]]></g:description>
-  <g:link>https://velofant.se/sv/products/velofant-wheelset-1</g:link>
+  <g:link>https://velofant.se/products/velofant-wheelset</g:link>
   <g:image_link>https://velofant.se/cdn/shop/files/velofant-wheelset.jpg</g:image_link> <!-- byt till korrekt bild-URL -->
   <g:brand>Velofant</g:brand>
   <g:price>3499.00 SEK</g:price>
