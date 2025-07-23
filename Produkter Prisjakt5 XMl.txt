@@ -10,13 +10,13 @@
 <g:title>A R K I P E L A G O - FRAMEKIT</g:title>
 <g:description>Vårt första ramset – Arkipelago – är en hyllning till landskapet som definierar staden där vår resa började – Stockholm. Ramen beräknas att lanseras under 2027.</g:description>
 <g:link>https://velofant.se/sv/products/arkipelago</g:link>
-<g:price>7900.00 SEK</g:price>
+<g:image_link>https://velofant.se/cdn/shop/files/cykel6.png?v=1748077919</g:image_link>
+<g:price>7900 SEK</g:price>
 <g:availability>out of stock</g:availability>
 <g:condition>new</g:condition>
     <g:shipping>
       <g:country>SE</g:country>
       <g:service>Standard</g:service>
-      <g:price>0.00 SEK</g:price>
       <g:delivery_time>2-4 dagar</g:delivery_time>
     </g:shipping>
 <g:google_product_category>499776</g:google_product_category>
@@ -32,14 +32,13 @@
 <g:description>Ett snyggt, kraftfullt och uppladdningsbart lampset från ABUS. Framljus: 240 lumen. Bakljus: 100 lumen. Den avlånga formen ger bättre ljusfördelning. Den kan roteras vertikalt eller horisontellt. Inkluderar USB-kabel. Laddningstid: 3 timmar. Full batteritid: 5 timmar. Har både blinkande och konstant ljusläge. Enkel installation med gummiband och klickfästen, inga verktyg krävs.</g:description>
 <g:link>https://velofant.se/products/abus-gemini-lights</g:link>
 <g:image_link>https://velofant.se/cdn/shop/files/abus2.png?v=1748000065</g:image_link>
-<g:price>500.00 SEK</g:price>
-<g:sale_price>349.00 SEK</g:sale_price>
+<g:price>500 SEK</g:price>
+<g:sale_price>349 SEK</g:sale_price>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
     <g:shipping>
       <g:country>SE</g:country>
       <g:service>Standard</g:service>
-      <g:price>0.00 SEK</g:price>
       <g:delivery_time>2-4 dagar</g:delivery_time>
     </g:shipping>
 <g:google_product_category>473</g:google_product_category>
@@ -55,14 +54,13 @@
 <g:description>Sveriges mest sålda bygellås! Letar du efter ett pålitligt lås som ger maximalt skydd utan att kosta en förmögenhet? Då är ABUS Varedo ditt självklara val. Med en säkerhetsnivå på 9 av 15 på ABUS egen skala kombinerar det imponerande motståndskraft mot stöldförsök med ett mycket rimligt pris – vilket också gjort det till det mest sålda bygellåset genom tiderna. Tillverkat i 12 mm specialhärdat stål och utrustat med dubbel låsning i låskistan, står det emot såväl bultsaxar som vridningar och dyrkverktyg. Ett robust val som dessutom är godkänt av både försäkringsbolagen och Stöldskyddsföreningen (SSF). När du köper ABUS Varedo följer en praktisk universalhållare (USH) med på köpet. Det smarta fästet gör det enkelt att ta med dig låset på cykeln – utan att det är i vägen. 12 mm parabolisk bygel Dubbel låsning av bygeln i låskistan ABUS Power Cell-teknik (patenterad) ger extra skydd mot slag och vridning ABUS Plus-cylinder för effektivt skydd mot manipulation som t.ex. dyrkning Två nycklar medföljer Manuellt lock för nyckelhålet som skyddar mot smuts och korrosion ABUS Code Card för kopiering av nycklar och beställning av reservnycklar Bygeln, höljet och stödelementen är tillverkade av specialhärdat stål</g:description>
 <g:link>https://velofant.se/products/abus-varedo-47</g:link>
 <g:image_link>https://velofant.se/cdn/shop/files/18587_47_150HB230_USH_a_3_59f9711e-ae62-43ca-b068-3466780e9a35.jpg?v=1746566938</g:image_link>
-<g:price>749.00 SEK</g:price>
-<g:sale_price>569.00 SEK</g:sale_price>
+<g:price>749 SEK</g:price>
+<g:sale_price>569 SEK</g:sale_price>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
     <g:shipping>
       <g:country>SE</g:country>
       <g:service>Standard</g:service>
-      <g:price>0.00 SEK</g:price>
       <g:delivery_time>2-4 dagar</g:delivery_time>
     </g:shipping>
 <g:google_product_category>5048</g:google_product_category>
@@ -77,14 +75,14 @@
 <g:title>ABUS - UGrip BORDO 5700K/80</g:title>
 <g:description>Abus uGrip Bordo 5700/80 är ett hopfällbart cykellås som erbjuder effektivt skydd. Bordo-serien är den perfekta kombinationen av styrka, flexibilitet, vikt och storlek. Detta lås har 5 mm tjocka stänger, anslutna med speciella nitar och en automatisk cylinder. När det är utdraget når låset en längd på 80 cm. Rekommenderas för medelstor stöldrisk Abus Säkerhetsnivå: 7/15 Längd: 80 cm</g:description>
 <g:link>https://velofant.se/products/abus-ugrip-bordo-5700k-80</g:link>
-<g:price>819.00 SEK</g:price>
-<g:sale_price>599.00 SEK</g:sale_price>
+<g:image_link>https://velofant.se/cdn/shop/files/lila_abus_jpg.png?v=1748000065</g:image_link>
+<g:price>819 SEK</g:price>
+<g:sale_price>599 SEK</g:sale_price>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
     <g:shipping>
       <g:country>SE</g:country>
       <g:service>Standard</g:service>
-      <g:price>0.00 SEK</g:price>
       <g:delivery_time>2-4 dagar</g:delivery_time>
     </g:shipping>
 <g:google_product_category>5048</g:google_product_category>
@@ -98,15 +96,14 @@
 <g:id>RK-CRANE-BLK</g:id>
 <g:title>CRANE - E-ne</g:title>
 <g:description>Den klassiska Crane E-ne ringklockan är tillverkad i Osaka, Japan. Den har en elegant design med en tydlig och resonant ton. 37 mm diameter Passar styre med en bredd på 22,2 - 31,8 mm Vikt: 38g</g:description>
-https://velofant.se/cdn/shop/files/svart_jpg.png?v=1727786165
-<g:price>349.00 SEK</g:price>
-<g:sale_price>299.00 SEK</g:sale_price>
+<g:image_link>https://velofant.se/cdn/shop/files/svart_jpg.png?v=1727786165</g:image_link>
+<g:price>349 SEK</g:price>
+<g:sale_price>299 SEK</g:sale_price>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
     <g:shipping>
       <g:country>SE</g:country>
       <g:service>Standard</g:service>
-      <g:price>0.00 SEK</g:price>
       <g:delivery_time>2-4 dagar</g:delivery_time>
     </g:shipping>
 <g:google_product_category>5049</g:google_product_category>
@@ -118,7 +115,7 @@ https://velofant.se/cdn/shop/files/svart_jpg.png?v=1727786165
 
 <item>
   <g:id><![CDATA[HB-KEN-MID-72]]></g:id>
-  <g:title><![CDATA[KEN - Mid Rise Bar - 72cm]]></g:title>
+  <g:title><![CDATA[KEN - Mid Rise Bar]]></g:title>
   <g:description><![CDATA[
 Ett brett aluminiumstyre med riser-form och 25,4 mm klämdiameter. Handgjort av våra mästare från Java - KEN. Perfekt för single speed- och fixed gear-cyklar – men enligt oss funkar det minst lika bra på växlande stadscyklar.
 
@@ -135,13 +132,12 @@ Color: black & silver
   <g:link>https://velofant.se/products/ken-mid-rise-bar</g:link>
   <g:image_link>https://velofant.se/cdn/shop/files/Ken2_3c3b97b9-7f9a-48c7-a298-0f0125b0b7fe.png?v=1747834948</g:image_link>
   <g:brand>Velofant</g:brand>
-  <g:price>599.00 SEK</g:price>
-  <g:availability>out of stock</g:availability>
+  <g:price>599 SEK</g:price>
+  <g:availability>in stock</g:availability>
   <g:condition>new</g:condition>
     <g:shipping>
       <g:country>SE</g:country>
       <g:service>Standard</g:service>
-      <g:price>0.00 SEK</g:price>
       <g:delivery_time>2-4 dagar</g:delivery_time>
     </g:shipping>
   <g:google_product_category>7478</g:google_product_category> <!-- Bicycle Handlebars -->
@@ -170,13 +166,13 @@ Vikt: 700 gram
   <g:link>https://velofant.se/products/pizza-front-rack</g:link>
   <g:image_link>https://velofant.se/cdn/shop/files/ruck4.png?v=1747859609</g:image_link>
   <g:brand>Velofant</g:brand>
-  <g:price>1099.00 SEK</g:price>
+  <g:price>1199 SEK</g:price>
+  <g:sale_price>999 SEK</g:sale_price>
   <g:availability>in stock</g:availability>
   <g:condition>new</g:condition>
     <g:shipping>
       <g:country>SE</g:country>
       <g:service>Standard</g:service>
-      <g:price>0.00 SEK</g:price>
       <g:delivery_time>2-4 dagar</g:delivery_time>
     </g:shipping>
   <g:google_product_category>500092</g:google_product_category> <!-- Bicycle Racks & Baskets -->
@@ -206,13 +202,13 @@ Made in Taiwan
   <g:link>https://velofant.se/products/pedalstraps</g:link>
   <g:image_link>https://velofant.se/cdn/shop/files/straps1_f5ec543b-59e4-46c7-862e-06b1a7469b97.png?v=1748072634</g:image_link>
   <g:brand>Velofant</g:brand>
-  <g:price>399.00 SEK</g:price>
+  <g:price>449 SEK</g:price>
+  <g:sale_price>299 SEK</g:sale_price>
   <g:availability>in stock</g:availability>
   <g:condition>new</g:condition>
     <g:shipping>
       <g:country>SE</g:country>
       <g:service>Standard</g:service>
-      <g:price>0.00 SEK</g:price>
       <g:delivery_time>2-4 dagar</g:delivery_time>
     </g:shipping>
   <g:google_product_category>500090</g:google_product_category> <!-- Bicycle Pedals & Cleats -->
@@ -253,14 +249,13 @@ Hubs: TANGE THB007
   <g:link>https://velofant.se/products/velofant-wheelset</g:link>
   <g:image_link>https://velofant.se/cdn/shop/files/wheelset.png?v=1748123733</g:image_link>
   <g:brand>Velofant</g:brand>
-  <g:price>3499.00 SEK</g:price>
-  <g:sale_price>2999.00 SEK</g:sale_price>
+  <g:price>3499 SEK</g:price>
+  <g:sale_price>2399 SEK</g:sale_price>
   <g:availability>in stock</g:availability>
   <g:condition>new</g:condition>
     <g:shipping>
       <g:country>SE</g:country>
       <g:service>Standard</g:service>
-      <g:price>0.00 SEK</g:price>
       <g:delivery_time>2-4 dagar</g:delivery_time>
     </g:shipping>
   <g:google_product_category>500091</g:google_product_category> <!-- Bicycle Wheels -->
