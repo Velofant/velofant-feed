@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Velofant Produktfeed</title>
+    <link>https://velofant.se</link>
+    <description>XML-produktfeed för Prisjakt</description>
+
+<item>
+<g:id>CY-ARK-CHR-57</g:id>
+<g:title>A R K I P E L A G O - FRAMEKIT</g:title>
+<g:description>Vårt första ramset – Arkipelago – är en hyllning till landskapet som definierar staden där vår resa började – Stockholm. Ramen beräknas att lanseras under 2027.</g:description>
+<g:link>https://velofant.se/sv/products/arkipelago</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/cykel6.png?v=1748077919</g:image_link>
+<g:price>7900 SEK</g:price>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+   <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>499776</g:google_product_category>
+<g:brand>Velofant</g:brand>
+<g:product_type>Cykelramar</g:product_type>
+<g:mpn>ARK-CHR-57</g:mpn>
+</item>
+
+
+<item>
+<g:id>LT-ABUS-Fon</g:id>
+<g:title>ABUS - GEMINI Framlampa</g:title>
+<g:description>Abus Gemini Framlampa – kör tryggt i mörkret
+
+Med upp till 240 lumen och godkänd enligt svenska regler är Gemini en kraftfull och pålitlig framlampa för din cykel. Den laddas enkelt via USB, monteras smidigt med gummiband på styret och kan tas av på sekunder. Lampan kan dessutom vridas både vertikalt och horisontellt för maximal flexibilitet.
+   Den avlånga designen förbättrar ljusfördelningen och kan roteras både vertikalt och horisontellt, så att du får exakt rätt ljusriktning.
+
+✔ 240 lumen – stark och synlig på långt håll
+✔ Brinntid: 5–40 timmar, laddas på ca 3 timmar
+✔ Två ljuslägen: konstant och blinkande
+✔ Godkänd strålkastare – säker och regelrätt
+✔ Kan roteras vertikalt eller horisontellt
+✔ Enkel montering med gummiband och klickfäste – inga verktyg behövs</g:description>
+<g:link>https://velofant.se/products/abus-gemini-framljus</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/light.png?v=1755367856</g:image_link>
+<g:price>249 SEK</g:price>
+<g:sale_price>189 SEK</g:sale_price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>473</g:google_product_category>
+<g:brand>ABUS</g:brand>
+<g:product_type>Cykeltillbehör > Belysning</g:product_type>
+<g:mpn>GEMINI-FRONT-240</g:mpn>
+</item>
+
+<item>
+<g:id>LT-ABUS-Back</g:id>
+<g:title>ABUS - GEMINI Baklampa</g:title>
+<g:description>Abus Gemini Baklampa – kör tryggt i mörkret
+Med upp till 100 lumen och godkänd enligt svenska regler är Gemini en kraftfull och pålitlig baklampa för din cykel. Den laddas enkelt via USB, monteras snabbt med gummiband på cykeln och kan tas av på sekunder. Den avlånga designen förbättrar ljusfördelningen och kan roteras både vertikalt och horisontellt, så att du får exakt rätt ljusriktning.
+✔ 100 lumen – stark och synlig på långt håll ✔ Brinntid: 5–40 timmar, laddas på ca 3 timmar ✔ Två ljuslägen: konstant och blinkande ✔ Godkänd baklampa – säker och regelrätt ✔ Kan roteras vertikalt eller horisontellt ✔ Enkel montering med gummiband och klickfäste – inga verktyg behövs</g:description>
+<g:link>https://velofant.se/products/abus-gemini-baklampa</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/light3.png?v=1755369378</g:image_link>
+<g:price>249 SEK</g:price>
+<g:sale_price>189 SEK</g:sale_price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>473</g:google_product_category>
+<g:brand>ABUS</g:brand>
+<g:product_type>Cykeltillbehör > Belysning</g:product_type>
+<g:mpn>GEMINI-REAR-100</g:mpn>
+</item>
+
+ 
+<item>
+<g:id>ABUS-VAREDO-47-230mm</g:id>
+<g:title>ABUS - Varedo 47 - 230mm</g:title>
+<g:description>Sveriges mest sålda bygellås! Letar du efter ett pålitligt lås som ger maximalt skydd utan att kosta en förmögenhet? Då är ABUS Varedo ditt självklara val. Med en säkerhetsnivå på 9 av 15 på ABUS egen skala kombinerar det imponerande motståndskraft mot stöldförsök med ett mycket rimligt pris – vilket också gjort det till det mest sålda bygellåset genom tiderna. Tillverkat i 12 mm specialhärdat stål och utrustat med dubbel låsning i låskistan, står det emot såväl bultsaxar som vridningar och dyrkverktyg. Ett robust val som dessutom är godkänt av både försäkringsbolagen och Stöldskyddsföreningen (SSF). När du köper ABUS Varedo följer en praktisk universalhållare (USH) med på köpet. Det smarta fästet gör det enkelt att ta med dig låset på cykeln – utan att det är i vägen. 12 mm parabolisk bygel Dubbel låsning av bygeln i låskistan ABUS Power Cell-teknik (patenterad) ger extra skydd mot slag och vridning ABUS Plus-cylinder för effektivt skydd mot manipulation som t.ex. dyrkning Två nycklar medföljer Manuellt lock för nyckelhålet som skyddar mot smuts och korrosion ABUS Code Card för kopiering av nycklar och beställning av reservnycklar Bygeln, höljet och stödelementen är tillverkade av specialhärdat stål</g:description>
+<g:link>https://velofant.se/products/abus-varedo-47</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/18587_47_150HB230_USH_a_3_59f9711e-ae62-43ca-b068-3466780e9a35.jpg?v=1746566938</g:image_link>
+<g:price>749 SEK</g:price>
+<g:sale_price>569 SEK</g:sale_price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>499972</g:google_product_category>
+<g:brand>ABUS</g:brand>
+<g:product_type>Cykeltillbehör > Lås > Bygellås</g:product_type>
+<g:mpn>VAREDO47230</g:mpn>
+</item>
+
+<item>
+<g:id>LK-Bordo-Blk</g:id>
+<g:title>ABUS BORDO™ XPlus</g:title>
+<g:description>ABUS BORDO™ XPlus 6000K/90 – top-class security
+
+Compact, strong, and flexible – the folding lock from ABUS is a true classic and the first choice for anyone who wants to protect their bike in the best possible way. The six 5 mm thick bars made of specially hardened steel fold together into a compact format, while the XPlus cylinder provides outstanding protection against picking and manipulation.
+
+The soft protective coating prevents scratches, and with the included SH holder the lock is easy to carry on your bike.
+
+✔ Recommended by insurance companies
+✔ 90 cm length – easy to secure around fixed objects
+✔ Security Level = 10
+✔ Made in Germany – award-winning quality
+✔ SH holder included – frame mount for easy transport
+✔ Weight: 1330 g</g:description>
+<g:link>https://velofant.se/products/abus-bordo-xplus</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/las_4a7483a4-22d9-4605-8fd8-9b116dfa2a0b.png?v=1755357479</g:image_link>
+<g:price>1349 SEK</g:price>
+<g:sale_price>839 SEK</g:sale_price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>499972</g:google_product_category>
+<g:brand>ABUS</g:brand>
+<g:product_type>Cykeltillbehör > Lås > Viklås</g:product_type>
+<g:mpn>6000K90XPLUS</g:mpn>
+</item>
+
+
+<item>
+<g:id>LK-Ugrip-Pur</g:id>
+<g:title>Abus uGrip Bordo 5700 80cm</g:title>
+<g:description>Abus uGrip Bordo 5700/80 är ett hopfällbart cykellås som erbjuder effektivt skydd. Bordo-serien är den perfekta kombinationen av styrka, flexibilitet, vikt och storlek. Detta lås har 5 mm tjocka stänger, anslutna med speciella nitar och en automatisk cylinder. När det är utdraget når låset en längd på 80 cm. Rekommenderas för medelstor stöldrisk Abus Säkerhetsnivå: 7/15 Längd: 80 cm</g:description>
+<g:link>https://velofant.se/products/abus-ugrip-bordo-5700k-80</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/lila_abus_jpg.png?v=1748000065</g:image_link>
+<g:price>819 SEK</g:price>
+<g:sale_price>509 SEK</g:sale_price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>499972</g:google_product_category>
+<g:brand>ABUS</g:brand>
+<g:product_type>Cykeltillbehör > Lås > Viklås</g:product_type>
+<g:mpn>UGRIP5700K80</g:mpn>
+</item>
+
+<item>
+<g:id>LK-Ugrip-Blu</g:id>
+<g:title>Abus uGrip Bordo 5700 Combo 80cm</g:title>
+<g:description>ABUS uGrip BORDO™ 5700C Combo – security doesn’t have to be boring
+
+A compact, foldable lock with a 4-digit code – easy to carry and simple to use. The 5 mm steel bars fold together like a ruler, protected by a colorful coating, and secure easily around fixed objects with an 80 cm reach. A frame mount is included for convenient transport.
+
+Specification:
+✔ Security level 7/15 – ideal for low to medium theft risk.
+✔ 80 cm length – easy to secure around fixed objects
+✔ Made in Germany – award-winning quality
+✔ SH holder included – frame mount for easy transport
+✔ Weight: 819 g</g:description>
+<g:link>https://velofant.se/products/abus-ugrip-bordo-5700c</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/las2_fb85866b-bd94-4b51-a454-60bb9489d126.png?v=1755358297</g:image_link>
+<g:price>799 SEK</g:price>
+<g:sale_price>569 SEK</g:sale_price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>499972</g:google_product_category>
+<g:brand>ABUS</g:brand>
+<g:product_type>Cykeltillbehör > Lås > Viklås</g:product_type>
+<g:mpn>5700C/80</g:mpn>
+</item>
+
+
+<item>
+<g:id>RK-CRANE-BLK</g:id>
+<g:title>CRANE - E-ne</g:title>
+<g:description>Den klassiska Crane E-ne ringklockan är tillverkad i Osaka, Japan. Den har en elegant design med en tydlig och resonant ton. 37 mm diameter Passar styre med en bredd på 22,2 - 31,8 mm Vikt: 38g</g:description>
+<g:link>https://velofant.se/products/crane-e-ne</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/svart_jpg.png?v=1727786165</g:image_link>
+<g:price>349 SEK</g:price>
+<g:sale_price>299 SEK</g:sale_price>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>5049</g:google_product_category>
+<g:brand>Crane</g:brand>
+<g:product_type>Cykeltillbehör > Ringklockor</g:product_type>
+<g:mpn>ENE-BLK-BLK-BRASS</g:mpn>
+</item>
+
+
+<item>
+  <g:id><![CDATA[HB-KEN-MID-72]]></g:id>
+  <g:title><![CDATA[KEN - Styre - Mid Rise ]]></g:title>
+  <g:description><![CDATA[
+Ett brett aluminiumstyre med riser-form och 25,4 mm klämdiameter. Handgjort av våra mästare från Java - KEN. Perfekt för single speed- och fixed gear-cyklar – men enligt oss funkar det minst lika bra på växlande stadscyklar.
+
+Spec:
+Clamp: 25.4 mm  
+Length: 720 mm  
+Rise: 25 mm  
+Up sweep: 6 degrees  
+Back sweep: 3 degrees  
+Weight: 350 grams  
+Material: aluminum  
+Color: black & silver
+  ]]></g:description>
+  <g:link>https://velofant.se/products/ken-mid-rise-bar</g:link>
+  <g:image_link>https://velofant.se/cdn/shop/files/Ken2_3c3b97b9-7f9a-48c7-a298-0f0125b0b7fe.png?v=1747834948</g:image_link>
+  <g:brand>Velofant</g:brand>
+  <g:price>599 SEK</g:price>
+  <g:sale_price>499 SEK</g:sale_price>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+  <g:google_product_category>7478</g:google_product_category> <!-- Bicycle Handlebars -->
+  <g:mpn>KEN-MID-72</g:mpn>
+</item>
+
+
+<item>
+  <g:id><![CDATA[RACK-PIZZA-FRONT]]></g:id>
+  <g:title><![CDATA[PIZZA FRONT RACK]]></g:title>
+  <g:description><![CDATA[
+RuckRacks Pizza Rack – Mer än bara för pizza.
+
+Möt den ultimata frontmonterade pakethållaren för stadscyklister och pendlare. RuckRacks "Pizza Rack" erbjuder en stor lastyta – perfekt för att bära allt från pizzakartonger till ryggsäckar.
+
+Tillverkad av starkt men lätt rostfritt stål (304), byggd för att klara vardagens laster utan att tumma på stilen. Den minimalistiska designen håller din cykel snygg och prydlig, och de många fästpunkterna gör den kompatibel med en mängd olika gafflar.
+
+Specifikationer:
+Kompatibilitet: Gafflar med övre monteringspunkt samt mittbladsöglor eller axelmontering  
+Material: Rostfritt stål 304  
+Justerbar: Passar 700c / 26” / 27”  
+Tillverkad för hand på Java  
+Mått: 23 x 21,5 x 11 cm  
+Vikt: 700 gram
+  ]]></g:description>
+  <g:link>https://velofant.se/products/pizza-front-rack</g:link>
+  <g:image_link>https://velofant.se/cdn/shop/files/ruck2.png?v=1755364213</g:image_link>
+  <g:brand>Velofant</g:brand>
+  <g:price>1199 SEK</g:price>
+  <g:sale_price>899 SEK</g:sale_price>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+  <g:google_product_category>500092</g:google_product_category> <!-- Bicycle Racks & Baskets -->
+  <g:mpn>PIZZA-RACK-SS</g:mpn>
+</item>
+
+
+<item>
+  <g:id><![CDATA[PD-STRAPS-BLK]]></g:id>
+  <g:title><![CDATA[VELOFANT - Pedalremmar]]></g:title>
+  <g:description><![CDATA[
+Pedalremmarna som pallar trycket!
+
+Våra egenutvecklade pedalremmar är byggda för att tåla allt du utsätter dem för – från regniga vardagspendlingar till intensiva helgturer. Tillverkade i slitstarkt nylon och en vattenavvisande denimtextil kombinerar de funktion med stil. För extra hållbarhet och stabilitet har de underliggande nylonremmarna delvis förstärkts med tre lager.
+
+Remmarna är enkla att montera och smidiga att justera – oavsett om du cyklar i sandaler eller kängor. Passar standardpedaler med 3/4" x 5/16" slitsade öppningar. Vi tycker de fungerar lika bra för vardagspendling som för cykelcross, fixed gear, mountainbike, budkörning och allt däremellan - de är mångsidiga!
+
+Specifikationer:
+Material: Nylon och denimtextil  
+(vattenavstötande)  
+Bredd: 5cm  
+Vikt: 200g  
+Storlek: One size  
+Certifiering: OEKO-TEX® STANDARD 100, ISO 9001:2015  
+Made in Taiwan
+  ]]></g:description>
+  <g:link>https://velofant.se/products/pedalstraps</g:link>
+  <g:image_link>https://velofant.se/cdn/shop/files/straps1_107330a0-3f15-4aba-a520-9274ce85cb54.png?v=1755357699</g:image_link>
+  <g:brand>Velofant</g:brand>
+  <g:price>449 SEK</g:price>
+  <g:sale_price>299 SEK</g:sale_price>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+  <g:google_product_category>500090</g:google_product_category> <!-- Bicycle Pedals & Cleats -->
+  <g:mpn>STRAPS-BLK</g:mpn>
+</item>
+
+<item>
+  <g:id><![CDATA[WH-VF-700C-SILVER]]></g:id>
+  <g:title><![CDATA[VELOFANT - Hjulset]]></g:title>
+  <g:description><![CDATA[
+Where Design Meets Performance
+
+I samarbete med Shining och Tange har vi tagit fram vårt eget hjulset med Flip-flop-nav som kombinerar design, prestanda och hållbarhet. Tillverkat av högkvalitativa material i kombination med tätade nav från legendariska Tange erbjuder hjulsetet en smidig, underhållsfri prestanda!
+
+De 30mm höga aluminiumfälgarna är designade för att vara lätta men tåliga – perfekt för cyklister som värdesätter både fart och stabilitet. Det passar perfekt med vårt Arkipelago ramkit!
+
+Rims: Shining AL-300  
+Material: Alloy  
+Braking Surface: Yes  
+Joint: Pinned  
+Rim Height: 30 mm  
+Rim Width: Inner 19mm - outer 24mm  
+Size: 700C  
+Pattern: Straight-laced front, rear cross x2 lacing  
+Wheelset Weight: 2400g +/-10g  
+Rim Tape: Included  
+Optimal Tire Width: 22 - 57 mm  
+Tyres: Not included  
+Cogs: Not included
+
+Hubs: TANGE THB007  
+- Sealed bearing  
+- Standard Flange  
+- FlipFlop hub  
+- Alloy CNC, Anodized  
+- Front OLD:100mm / Rear OLD:120mm
+  ]]></g:description>
+  <g:link>https://velofant.se/products/velofant-wheelset</g:link>
+  <g:image_link>https://velofant.se/cdn/shop/files/wheelset.png?v=1748123733</g:image_link>
+  <g:brand>Velofant</g:brand>
+  <g:price>3499 SEK</g:price>
+  <g:sale_price>2399 SEK</g:sale_price>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+  <g:google_product_category>500091</g:google_product_category> <!-- Bicycle Wheels -->
+  <g:mpn>WH-VF-700C-SILVER</g:mpn>
+</item>
+
+<item>
+<g:id>CH-IZUMI-BLK</g:id>
+<g:title>Izumi - Cykelkedja - Singelspeed</g:title>
+<g:description>Izumi – kedjan som skrivit cykelhistoria 
+Sedan 1916 har japanska Izumi drivit utvecklingen av cykelkedjor framåt med banbrytande innovationer i material, ytbehandlingar och design. Under mer än ett sekel har Izumi satt standarden för kvalitet och hållbarhet – en tradition som lever vidare än idag. Izumi-kedjor har därför med tiden fått en närmast ikonisk status bland cyklister världen över.
+Dessa kedjor passar oväxlade cyklar (singelspeed) alt. modeller med navväxel.
+Specifikationer:
+
+Material: CroMo Stål
+Storlek: 1/2" x 1/8" (Singelspeed)
+Links: 116
+Vikt: 411-415g
+Made in Japan
+</g:description>
+<g:link>https://velofant.se/products/izumi-kedjor</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/Izumi-5-Speed-Kette-BK-2.jpg?v=1755357369&amp;width=600</g:image_link>
+<g:price>169 SEK</g:price>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>4233</g:google_product_category>
+<g:brand>IZUMI</g:brand>
+<g:product_type>Cykeltillbehör > Kedjor > Singelspeed</g:product_type>
+<g:mpn>IZUMI-CHAIN-1-8</g:mpn>
+</item>
+
+<item>
+<g:id>CH-IZUMI-GOL</g:id>
+<g:title>Izumi - Cykelkedja - Singelspeed</g:title>
+<g:description>Izumi – kedjan som skrivit cykelhistoria 
+Sedan 1916 har japanska Izumi drivit utvecklingen av cykelkedjor framåt med banbrytande innovationer i material, ytbehandlingar och design. Under mer än ett sekel har Izumi satt standarden för kvalitet och hållbarhet – en tradition som lever vidare än idag. Izumi-kedjor har därför med tiden fått en närmast ikonisk status bland cyklister världen över.
+Dessa kedjor passar oväxlade cyklar (singelspeed) alt. modeller med navväxel.
+Specifikationer:
+
+Material: CroMo Stål
+Storlek: 1/2" x 1/8" (Singelspeed)
+Links: 116
+Vikt: 411-415g
+Made in Japan
+</g:description>
+<g:link>https://velofant.se/products/izumi-kedjor</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/Izumi-Track-Fahrradkette-GL-2_60b97751-1ad0-40a2-9f0a-4874bccf96e4.jpg?v=1755357369&amp;width=600</g:image_link>
+<g:price>319 SEK</g:price>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>4233</g:google_product_category>
+<g:brand>IZUMI</g:brand>
+<g:product_type>Cykeltillbehör > Kedjor > Singelspeed</g:product_type>
+<g:mpn>IZUMI-CHAIN-1-8</g:mpn>
+</item>
+
+<item>
+<g:id>CH-IZUMI-JBLK</g:id>
+<g:title>Izumi - Cykelkedja - Singelspeed</g:title>
+<g:description>Izumi – kedjan som skrivit cykelhistoria 
+Sedan 1916 har japanska Izumi drivit utvecklingen av cykelkedjor framåt med banbrytande innovationer i material, ytbehandlingar och design. Under mer än ett sekel har Izumi satt standarden för kvalitet och hållbarhet – en tradition som lever vidare än idag. Izumi-kedjor har därför med tiden fått en närmast ikonisk status bland cyklister världen över.
+Dessa kedjor passar oväxlade cyklar (singelspeed) alt. modeller med navväxel.
+Specifikationer:
+
+Material: CroMo Stål
+Storlek: 1/2" x 1/8" (Singelspeed)
+Links: 116
+Vikt: 411-415g
+Made in Japan
+</g:description>
+<g:link>https://velofant.se/products/izumi-kedjor</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/Izumi-Track-Kette-Jet-Black-GL-2_3edf4303-db53-435e-90ad-5ae838db275d.jpg?v=1755357369&amp;width=600</g:image_link>
+<g:price>339 SEK</g:price>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>4233</g:google_product_category>
+<g:brand>IZUMI</g:brand>
+<g:product_type>Cykeltillbehör > Kedjor > Singelspeed</g:product_type>
+<g:mpn>IZUMI-CHAIN-1-8</g:mpn>
+</item>
+
+<item>
+<g:id>CH-IZUMI-SIL</g:id>
+<g:title>Izumi - Cykelkedja - Singelspeed</g:title>
+<g:description>Izumi – kedjan som skrivit cykelhistoria 
+Sedan 1916 har japanska Izumi drivit utvecklingen av cykelkedjor framåt med banbrytande innovationer i material, ytbehandlingar och design. Under mer än ett sekel har Izumi satt standarden för kvalitet och hållbarhet – en tradition som lever vidare än idag. Izumi-kedjor har därför med tiden fått en närmast ikonisk status bland cyklister världen över.
+Dessa kedjor passar oväxlade cyklar (singelspeed) alt. modeller med navväxel.
+Specifikationer:
+
+Material: CroMo Stål
+Storlek: 1/2" x 1/8" (Singelspeed)
+Links: 116
+Vikt: 411-415g
+Made in Japan
+</g:description>
+<g:link>https://velofant.se/products/izumi-kedjor</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/Izumi-Track-Tough-Guard-Kette-SL-2.jpg?v=1755357369&amp;width=600</g:image_link>
+<g:price>319 SEK</g:price>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>4233</g:google_product_category>
+<g:brand>IZUMI</g:brand>
+<g:product_type>Cykeltillbehör > Kedjor > Singelspeed</g:product_type>
+<g:mpn>IZUMI-CHAIN-1-8</g:mpn>
+</item>
+
+<item>
+<g:id>CH-IZUMI-JSIL</g:id>
+<g:title>Izumi - Cykelkedja - Singelspeed</g:title>
+<g:description>Izumi – kedjan som skrivit cykelhistoria 
+Sedan 1916 har japanska Izumi drivit utvecklingen av cykelkedjor framåt med banbrytande innovationer i material, ytbehandlingar och design. Under mer än ett sekel har Izumi satt standarden för kvalitet och hållbarhet – en tradition som lever vidare än idag. Izumi-kedjor har därför med tiden fått en närmast ikonisk status bland cyklister världen över.
+Dessa kedjor passar oväxlade cyklar (singelspeed) alt. modeller med navväxel.
+Specifikationer:
+
+Material: CroMo Stål
+Storlek: 1/2" x 1/8" (Singelspeed) 
+Links: 116
+Vikt: 411-415g
+Made in Japan
+</g:description>
+<g:link>https://velofant.se/products/izumi-kedjor</g:link>
+<g:image_link>https://velofant.se/cdn/shop/files/Izumi-Track-Kette-Jet-Black-SL-2.jpg?v=1755357369&amp;width=600</g:image_link>
+<g:price>339 SEK</g:price>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+    <g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>0 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+<g:google_product_category>4233</g:google_product_category>
+<g:brand>IZUMI</g:brand>
+<g:product_type>Cykeltillbehör > Kedjor > Singelspeed</g:product_type>
+<g:mpn>IZUMI-CHAIN-1-8</g:mpn>
+</item>
+
+
+
+  </channel>
+</rss>
