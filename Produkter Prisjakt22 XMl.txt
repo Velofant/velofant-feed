@@ -199,7 +199,7 @@ Specification:
 <g:title>CRANE - E-ne</g:title>
 <g:description>Den klassiska Crane E-ne ringklockan är tillverkad i Osaka, Japan. Den har en elegant design med en tydlig och resonant ton. 37 mm diameter Passar styre med en bredd på 22,2 - 31,8 mm Vikt: 38g</g:description>
 <g:link>https://velofant.se/products/crane-e-ne</g:link>
-<g:image_link>https://velofant.se/products/crane-e-ne</g:image_link>
+<g:image_link>https://velofant.se/cdn/shop/files/dffdfgd.jpg?v=1759953619</g:image_link>
 <g:price>349 SEK</g:price>
 <g:sale_price>299 SEK</g:sale_price>
 <g:availability>in stock</g:availability>
