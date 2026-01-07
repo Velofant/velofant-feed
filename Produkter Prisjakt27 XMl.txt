@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+
+  <product>
+    <id>CY-ARK-CHR-57</id>
+    <name>ARKIPELAGO – Framekit</name>
+    <description>Singelspeed / fixed gear-stålram. Lanseras 2026.</description>
+    <price>6900</price>
+    <in_stock>0</in_stock>
+    <url>https://velofant.se/sv/products/arkipelago</url>
+    <image_url>https://velofant.se/cdn/shop/files/6.jpg?v=1766274720</image_url>
+    <brand>Velofant</brand>
+    <category>Cykelramar</category>
+  </product>
+
+  <product>
+    <id>LT-ABUS-GEMINI-FRONT</id>
+    <name>ABUS Gemini Framlampa 240 lm</name>
+    <price>249</price>
+    <sale_price>179</sale_price>
+    <in_stock>1</in_stock>
+    <url>https://velofant.se/products/abus-gemini-framljus</url>
+    <image_url>https://velofant.se/cdn/shop/files/lys2.jpg?v=1763834015</image_url>
+    <brand>ABUS</brand>
+    <category>Cykelbelysning</category>
+  </product>
+
+  <product>
+    <id>LT-ABUS-GEMINI-REAR</id>
+    <name>ABUS Gemini Baklampa 100 lm</name>
+    <price>249</price>
+    <sale_price>179</sale_price>
+    <in_stock>1</in_stock>
+    <url>https://velofant.se/products/abus-gemini-baklampa</url>
+    <image_url>https://velofant.se/cdn/shop/files/lyse_e28245f8-f5b0-4efa-8a60-cecd64a95992.jpg</image_url>
+    <brand>ABUS</brand>
+    <category>Cykelbelysning</category>
+  </product>
+
+  <product>
+    <id>ABUS-VAREDO-47</id>
+    <name>ABUS Varedo 47 Bygellås 230 mm</name>
+    <price>749</price>
+    <sale_price>549</sale_price>
+    <in_stock>1</in_stock>
+    <url>https://velofant.se/products/abus-varedo-47</url>
+    <image_url>https://velofant.se/cdn/shop/files/Lasw.jpg</image_url>
+    <brand>ABUS</brand>
+    <category>Cykellås</category>
+  </product>
+
+  <product>
+    <id>ABUS-BORDO-XPLUS-6000K</id>
+    <name>ABUS Bordo XPlus 6000K 90 cm</name>
+    <price>1349</price>
+    <sale_price>869</sale_price>
+    <in_stock>1</in_stock>
+    <url>https://velofant.se/products/abus-bordo-xplus</url>
+    <image_url>https://velofant.se/cdn/shop/files/las345.jpg</image_url>
+    <brand>ABUS</brand>
+    <category>Cykellås</category>
+  </product>
+
+  <product>
+    <id>ABUS-UGRIP-5700C</id>
+    <name>ABUS uGrip Bordo 5700C 80 cm</name>
+    <price>799</price>
+    <sale_price>549</sale_price>
+    <in_stock>1</in_stock>
+    <url>https://velofant.se/products/abus-ugrip-bordo-5700c</url>
+    <image_url>https://velofant.se/cdn/shop/files/las356.jpg</image_url>
+    <brand>ABUS</brand>
+    <category>Cykellås</category>
+  </product>
+
+  <product>
+    <id>CRANE-ENE</id>
+    <name>Crane E-ne Ringklocka</name>
+    <price>349</price>
+    <sale_price>269</sale_price>
+    <in_stock>1</in_stock>
+    <url>https://velofant.se/products/crane-e-ne</url>
+    <image_url>https://velofant.se/cdn/shop/files/wrtawrt.jpg</image_url>
+    <brand>Crane</brand>
+    <category>Ringklockor</category>
+  </product>
+
+
+<product>
+    <id>CRANE-MINI-KAREN</id>
+    <name>Crane Mini Karen Ringklocka</name>
+    <price>299</price>
+    <sale_price>199</sale_price>
+    <in_stock>1</in_stock>
+    <url>https://velofant.se/products/crane-mini-karen</url>
+    <image_url>https://velofant.se/cdn/shop/files/wtrawr.jpg</image_url>
+    <brand>Crane</brand>
+    <category>Ringklockor</category>
+  </product>
+
+  <product>
+    <id>VEL-BONBON-BAR-720</id>
+    <name>Velofant BonBon Styre 720 mm</name>
+    <price>599</price>
+    <sale_price>499</sale_price>
+    <in_stock>1</in_stock>
+    <url>https://velofant.se/products/velofant-bonbon-bar-o25-4mm</url>
+    <image_url>https://velofant.se/cdn/shop/files/BONB.jpg</image_url>
+    <brand>Velofant</brand>
+    <category>Cykelstyren</category>
+  </product>
+
+  <product>
+    <id>VEL-BONBON-RACK</id>
+    <name>Velofant BonBon Front Rack</name>
+    <price>1199</price>
+    <sale_price>899</sale_price>
+    <in_stock>1</in_stock>
+    <url>https://velofant.se/products/velofant-bonbon-rack</url>
+    <image_url>https://velofant.se/cdn/shop/files/Mall-1bild-Aterstalld-Aterstalld-Aterstalld-Aterstalld-Aterstalld-Aterstalld.jpg</image_url>
+    <brand>Velofant</brand>
+    <category>Cykelpakethållare</category>
+  </product>
+
+  <product>
+    <id>VEL-HANDTAG-BLK</id>
+    <name>Velofant Handtag</name>
+    <price>249</price>
+    <sale_price>189</sale_price>
+    <in_stock>0</in_stock>
+    <url>https://velofant.se/products/velofant-handtag</url>
+    <image_url>https://velofant.se/cdn/shop/files/Grip1.jpg</image_url>
+    <brand>Velofant</brand>
+    <category>Handtag</category>
+  </product>
+
+  <product>
+    <id>VEL-SADDLE-JOYRIDE</id>
+    <name>Velofant Sadel – Joyride</name>
+    <price>499</price>
+    <sale_price>399</sale_price>
+    <in_stock>0</in_stock>
+    <url>https://velofant.se/products/velofant-sadel-smile</url>
+    <image_url>https://velofant.se/cdn/shop/files/Sadel123.jpg</image_url>
+    <brand>Velofant</brand>
+    <category>Sadlar</category>
+  </product>
+
+  <product>
+    <id>VEL-PEDAL-STRAPS</id>
+    <name>Velofant Pedalremmar</name>
+    <price>449</price>
+    <sale_price>249</sale_price>
+    <in_stock>1</in_stock>
+    <url>https://velofant.se/products/pedalstraps</url>
+    <image_url>https://velofant.se/cdn/shop/files/remmm.jpg</image_url>
+    <brand>Velofant</brand>
+    <category>Pedaler & Tillbehör</category>
+  </product>
+
+  <product>
+    <id>VEL-WHEELSET-700C</id>
+    <name>Velofant Hjulset 700C</name>
+    <price>3499</price>
+    <sale_price>2399</sale_price>
+    <in_stock>1</in_stock>
+    <url>https://velofant.se/products/velofant-wheelset</url>
+    <image_url>https://velofant.se/cdn/shop/files/hjul.jpg</image_url>
+    <brand>Velofant</brand>
+    <category>Cykelhjul</category>
+  </product>
+
+  <product>
+    <id>IZUMI-CHAIN-1-8</id>
+    <name>Izumi Singelspeed-kedja 1/8</name>
+    <price>319</price>
+    <in_stock>1</in_stock>
+    <url>https://velofant.se/products/izumi-kedjor</url>
+    <image_url>https://velofant.se/cdn/shop/files/kedja3444.jpg</image_url>
+    <brand>Izumi</brand>
+    <category>Cykelkedjor</category>
+  </product>
+
+</products>
