@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+
+  <product>
+    <id>CY-ARK-CHR-57</id>
+    <title>ARKIPELAGO – Framekit</title>
+    <description>Singelspeed / fixed gear-stålram. Lanseras 2026.</description>
+    <price>6900</price>
+    <availability>out of stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/sv/products/arkipelago</link>
+    <image_url>https://velofant.se/cdn/shop/files/6.jpg?v=1766274720&amp;width=1946</image_url>
+    <brand>Velofant</brand>
+    <category>Cykelramar</category>
+  </product>
+
+  <product>
+    <id>LT-ABUS-GEMINI-FRONT</id>
+    <title>ABUS Gemini Framlampa 240 lm</title>
+    <price>249</price>
+    <sale_price>179</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/abus-gemini-framljus</link>
+    <image_url>https://velofant.se/cdn/shop/files/lyse3.jpg?v=1763834015&amp;width=1946</image_url>
+    <brand>ABUS</brand>
+    <category>Cykelbelysning</category>
+  </product>
+
+  <product>
+    <id>LT-ABUS-GEMINI-REAR</id>
+    <title>ABUS Gemini Baklampa 100 lm</title>
+    <price>249</price>
+    <sale_price>179</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/abus-gemini-baklampa</link>
+    <image_url>https://velofant.se/cdn/shop/files/lyse2.jpg?v=1763833963&amp;width=1946</image_url>
+    <brand>ABUS</brand>
+    <category>Cykelbelysning</category>
+  </product>
+
+  <product>
+    <id>ABUS-VAREDO-47</id>
+    <title>ABUS Varedo 47 Bygellås 230 mm</title>
+    <price>749</price>
+    <sale_price>528</sale_price>
+   <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/abus-varedo-47</link>
+    <image_url>https://velofant.se/cdn/shop/files/Las3.jpg?v=1763594133&amp;width=1946</image_url>
+    <brand>ABUS</brand>
+    <category>Cykellås</category>
+  </product>
+
+  <product>
+    <id>ABUS-BORDO-XPLUS-6000K</id>
+    <title>ABUS Bordo XPlus 6000K 90 cm</title>
+    <price>1349</price>
+    <sale_price>869</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/abus-bordo-xplus</link>
+    <image_url>https://velofant.se/cdn/shop/files/Las4.jpg?v=1763594274&amp;width=1946</image_url>
+    <brand>ABUS</brand>
+    <category>Cykellås</category>
+  </product>
+
+  <product>
+    <id>ABUS-UGRIP-5700C</id>
+    <title>ABUS uGrip Bordo 5700C 80 cm</title>
+    <price>799</price>
+    <sale_price>549</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/abus-ugrip-bordo-5700c</link>
+    <image_url>https://velofant.se/cdn/shop/files/fdsdsffds.jpg?v=1763593890&amp;width=1946</image_url>
+    <brand>ABUS</brand>
+    <category>Cykellås</category>
+  </product>
+
+  <product>
+    <id>CRANE-ENE</id>
+    <title>Crane E-ne Ringklocka</title>
+    <price>349</price>
+    <sale_price>269</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/crane-e-ne</link>
+    <image_url>https://velofant.se/cdn/shop/files/wrtawrt.jpg?v=1763593992&amp;width=1946</image_url>
+    <brand>Crane</brand>
+    <category>Ringklockor</category>
+  </product>
+
+
+<product>
+    <id>CRANE-MINI-KAREN</id>
+    <title>Crane Mini Karen Ringklocka</title>
+    <price>299</price>
+    <sale_price>199</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/crane-mini-karen</link>
+    <image_url>https://velofant.se/cdn/shop/files/wtrawr.jpg?v=1763594400&amp;width=1946</image_url>
+    <brand>Crane</brand>
+    <category>Ringklockor</category>
+  </product>
+
+  <product>
+    <id>VEL-BONBON-BAR-720</id>
+    <title>Velofant BonBon Styre 720 mm</title>
+    <price>599</price>
+    <sale_price>499</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/velofant-bonbon-bar-o25-4mm</link>
+    <image_url>https://velofant.se/cdn/shop/files/Styre2.jpg?v=1763596731&amp;width=1946</image_url>
+    <brand>Velofant</brand>
+    <category>Cykelstyren</category>
+  </product>
+
+  <product>
+    <id>VEL-BONBON-RACK</id>
+    <title>Velofant BonBon Front Rack</title>
+    <price>1199</price>
+    <sale_price>899</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/velofant-bonbon-rack</link>
+    <image_url>https://velofant.se/cdn/shop/files/Mall-1bild-Aterstalld-Aterstalld-Aterstalld-Aterstalld-Aterstalld-Aterstalld.jpg?v=1763923026&amp;width=1946</image_url>
+    <brand>Velofant</brand>
+    <category>Cykelpakethållare</category>
+  </product>
+
+  <product>
+    <id>VEL-HANDTAG-BLK</id>
+    <title>Velofant Handtag</title>
+    <price>249</price>
+    <sale_price>189</sale_price>
+    <availability>out of stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/velofant-handtag</link>
+    <image_url>https://velofant.se/cdn/shop/files/Grip2.jpg?v=1766831947&amp;width=1946</image_url>
+    <brand>Velofant</brand>
+    <category>Handtag</category>
+  </product>
+
+  <product>
+    <id>VEL-SADDLE-JOYRIDE</id>
+    <title>Velofant Sadel – Joyride</title>
+    <price>499</price>
+    <sale_price>399</sale_price>
+    <availability>out of stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/velofant-sadel-smile</link>
+    <image_url>https://velofant.se/cdn/shop/files/Sadel124.jpg?v=1763593837&amp;width=1946</image_url>
+    <brand>Velofant</brand>
+    <category>Sadlar</category>
+  </product>
+
+  <product>
+    <id>VEL-PEDAL-STRAPS</id>
+    <title>Velofant Pedalremmar</title>
+    <price>449</price>
+    <sale_price>249</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/pedalstraps</link>
+    <image_url>https://velofant.se/cdn/shop/files/strap2.jpg?v=1763593935&amp;width=1946</image_url>
+    <brand>Velofant</brand>
+    <category><![CDATA[Pedaler & Tillbehör]]></category>
+  </product>
+
+  <product>
+    <id>VEL-WHEELSET-700C</id>
+    <title>Velofant Hjulset 700C</title>
+    <price>3499</price>
+    <sale_price>2399</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+   <link>https://velofant.se/products/velofant-wheelset</link>
+    <image_url>https://velofant.se/cdn/shop/files/hjul.jpg?v=1763594165&amp;width=1946</image_url>
+    <brand>Velofant</brand>
+    <category>Cykelhjul</category>
+  </product>
+
+  <product>
+    <id>IZUMI-CHAIN-1-8</id>
+    <title>Izumi Singelspeed-kedja 1/8</title>
+    <price>319</price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/izumi-kedjor</link>
+    <image_url>https://velofant.se/products/izumi-kedjor</image_url>
+    <brand>Izumi</brand>
+    <category>Cykelkedjor</category>
+  </product>
+
+ <product>
+    <id>14884691</id>
+    <title>Smartdna Stöldskydd Med Försäkring</title>
+    <price>695</price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/smartdna-dna-markning-isr-stoldskydd</link>
+    <image_url>https://velofant.se/cdn/shop/files/smartdna1.jpg?v=1768652158&amp;width=1946</image_url>
+    <brand>SmartDNA</brand>
+    <category>Stöldskydd / Säkerhet</category>
+  </product>
+
+ <product>
+    <id>14884664</id>
+    <title>DNA-märkning Smart ISR-märkning stöldskydd Protection för cykel</title>
+    <price>495</price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/smart-dna-stoldskydd-isr-code-e-med-forsakring</link>
+    <image_url>https://velofant.se/cdn/shop/files/smartdna2.jpg?v=1768652357&amp;width=1946</image_url>
+    <brand>SmartDNA</brand>
+    <category>Stöldskydd / Säkerhet</category>
+  </product>
+
+<product>
+    <id>4003318778100</id>
+    <title>ABUS - GameChanger - Cykelhjälm</title>
+  <price>2689</price>
+    <sale_price>979</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/gamechanger-cykelhjalm-aerodynamisk-ventilerad-tillverkad-i-italien-velofant-1</link>
+    <image_url>https://velofant.se/cdn/shop/files/Ne1.jpg?v=1763594764&amp;width=1946</image_url>
+    <brand>ABUS</brand>
+    <category>Cykelhjälmar</category>
+  </product>
+
+<product>
+    <id>4003318979484</id>
+    <title>ABUS - Urban-I 3.0 ACE - Cykelhjälm</title>
+  <price>1699</price>
+    <sale_price>979</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/abus-urban-i-3-ace-moss-green</link>
+    <image_url>https://velofant.se/cdn/shop/files/Ace1.jpg?v=1763594692&amp;width=1946</image_url>
+    <brand>ABUS</brand>
+    <category>Cykelhjälmar</category>
+<product>
+
+<product>
+    <id>875850000575</id>
+    <title>THOMSON Elite - Sadelstolpe - Straight - 27,2mm </title>
+  <price>1199/price>
+    <sale_price>899</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/thomson-elite-sadelstolpe</link>
+    <image_url>https://velofant.se/cdn/shop/files/Stolpe1.jpg?v=1768663030&amp;width=1946</image_url>
+    <brand>THOMSON</brand>
+    <category>Sadelstolpar</category>
+<product>
+
+
+<product>
+    <id>875850000568</id>
+    <title>THOMSON Elite - Sadelstolpe - Setback - 27,2mm </title>
+  <price>1199/price>
+    <sale_price>899</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+<g:shipping>
+  <g:country>SE</g:country>
+  <g:service>Standard</g:service>
+  <g:price>49 SEK</g:price>
+  <g:delivery_time>2-4 dagar</g:delivery_time>
+</g:shipping>
+    <link>https://velofant.se/products/thomson-elite-sadelstolpe?variant=55423076204892</link>
+    <image_url>https://velofant.se/cdn/shop/files/Styrstam2.jpg?v=1768663030&width=1946</image_url>
+    <brand>THOMSON</brand>
+    <category>Sadelstolpar</category>
+<product>
+
+</products>
